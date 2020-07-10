@@ -14,7 +14,6 @@
 📫 How to reach me: 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Daniela%20Duarte-c96893?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danieladuarteng/)](https://www.linkedin.com/in/danieladuarteng/) 
-
 [![Gmail Badge](https://img.shields.io/badge/falecom@danieladuarte.com.br-c96893?style=flat-square&logo=Gmail&logoColor=white&link=mailto:falecom@danieladuarte.com.br)](mailto:falecom@danieladuarte.com.br)
 
 
