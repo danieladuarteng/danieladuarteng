@@ -1,9 +1,9 @@
 ### Hi, my name is Daniela, a little about me::woman_technologist:
 
 
-🔭 I’m currently looking for a job like Remote React Developer
+🔭 I’m currently working like Remote React Developer
 
-🌱 I’m currently learning Gatsby and GraphQl
+🌱 I’m currently learning TypeScript, Gatsby and GraphQl
 
 💬 Ask me about HTML, CSS, JavaScript and ReactJs
 
